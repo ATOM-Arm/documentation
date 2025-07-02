@@ -16,7 +16,7 @@ Exemplo:
 **Membros Presentes:**
 - Nome do Membro 1
 - Nome do Membro 2
-- ...
+
 
 ---
 

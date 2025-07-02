@@ -2,6 +2,21 @@
 
 This document outlines the official team structure of the ATOM Project, organized by area within the GitHub organization.
 
+
+## Members **Total Members:** 10
+| Name                        | Role                | GitHub Handle          |
+|-----------------------------|---------------------|------------------------|
+| Enzo Rocha Leite Diniz Ribas | Researcher Leader      | [@enzoribas](https://github.com/oenzoribas) |
+| Ricardo Luiz De Freitas     | Orienter            | [@ricardolfreitas](https://github.com/ricardolfreitas) |
+| Presleyson Lima             | Orienter            | [@presleyson](https://github.com/presleyson) |
+| Eduardo Amaral              | Researcher    | [@Edudx890](https://github.com/Edudx890) |
+| Rafael Alves                | Researcher    | [@Rafaaalvess](https://github.com/Rafaaalvess) |
+| Carlos Eduardo              | Researcher  | [@Carlos-ccaetano](https://github.com/Carlos-ccaetano) |
+| Pedro Lucas Ramalho         | Researcher    | [@pedrolucasvsr](https://github.com/pedrolucasvsr) |
+| Joao Augusto Ramalho                  | Researcher   | [@Joaoavr](https://github.com/Joaoavr) |
+| Nicolas Garcia               | Researcher   | [@nicolasgarcia4](https://github.com/nicolasgarcia4) |
+| Lucas Telles                | Researcher   | [@telles-lucas](https://github.com/telles-lucas) |
+
 ---
 
 ## 👑 @leaders  
@@ -54,7 +69,7 @@ This document outlines the official team structure of the ATOM Project, organize
 ---
 
 ## 🧪 @integration-team  
-**Leads:** Enzo Ribas, Eduardo Amaral  
+**Leads:** Enzo Ribas, Eduardo Amaral, Rafael Alves
 **Description:** Responsible for integrating all systems and validating the robotic arm's performance.  
 
 **Key Responsibilities:**  
@@ -79,3 +94,17 @@ This document outlines the official team structure of the ATOM Project, organize
 - Support others in using documentation tools.  
 - Audit and review documentation quality and consistency.  
 - Ensure public and internal documents meet required guidelines.  
+
+---
+
+## 🗣️ @academic-writting-team
+**Leads:** Enzo Ribas, Presleyson Lima
+**Description:** Responsible for writing and publishing academic papers related to the project.
+**Key Responsibilities:**
+- Conduct literature reviews and research.
+- Write and edit academic papers.
+- Collaborate with team members for data collection and analysis.
+- Submit papers to relevant journals and conferences.
+- Ensure adherence to academic standards and guidelines.
+- Maintain a repository of published works and citations.
+---
