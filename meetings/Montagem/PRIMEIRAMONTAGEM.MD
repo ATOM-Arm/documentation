@@ -18,12 +18,16 @@ Componentes que precisam ser comprados:
 
 5x - Servo Motor
 Micro contrrolador esp32
-Parafuso M8
-Parafuso M3
-Superbonder 
+Parafuso M8.0
+Parafuso M3.0
+Parafuso M2.5
+Parafuso M2.0
+Superbonder
 Adesivo termo fusível
 Acetona
 Graxa de silicone
+
+
 
 
 
