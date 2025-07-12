@@ -5,25 +5,24 @@
 ---
 
 ## 👥 Equipe Responsável
-|
+
 | Nome             | Função                              |
 |------------------|-------------------------------------|
-| Enzo Ribas       | Eng. Mecatrônico e Líder Técnico |
-| Eduardo Amaral   | Eng. de Software              |
-| João Ramalho     | Eng. de Software              |
-| Pedro Ramalho    | Eng. de Software              |
-| Carlos Caetano   | Eng. de Software              |
-| Nicolas Garcia   | Eng. Robótico                 |
+| Enzo Ribas       | Pesquisador Líder|
+| Eduardo Amaral   | Pesquisador      |
+| João Ramalho     | Pesquisador      |
+| Pedro Ramalho    | Pesquisador      |
+| Carlos Caetano   | Pesquisador      |
+| Nicolas Garcia   | Pesquisador      |
 
 ---
 
 ## 🎯 Metas do Sprint
 Descreva aqui os objetivos principais deste ciclo:
 
-- 🧱 Montar a base estrutural do braço
-- 🧪 Testar acionamento de motores
-- 🔌 Preparar cabeamento da placa
-- 🎯 Avançar na lógica de controle via Arduino
+- 🧱 Verificar se todas as peças necessárias para a estrutura física estão prontas
+- 🧪 Testar encaixe das peças e validação mecânica
+- 🎯 Fazer um relatório de quais peças precisam ser compradas
 
 ---
 
@@ -32,7 +31,7 @@ Descreva aqui os objetivos principais deste ciclo:
 | Área / Módulo              | Progresso     |
 |----------------------------|---------------|
 | 🧱 Estrutura física         | ⬜⬜⬜⬜⬜⬜⬜⬜⬜🟨 (0%) |
-| 🔌 Eletrônica               | ⬜⬜⬜⬜⬜⬜⬜⬜⬜🟨 (0%) | 
+| 🔌 Eletrônica               | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (0%) | 
 | 💻 Programação (Arduino)    | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (0%) | 
 | 👁️ Visão Computacional      | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (0%) |
 | 🔗 Integração de sistemas   | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (0%)   | 
@@ -44,56 +43,51 @@ Descreva aqui os objetivos principais deste ciclo:
 ## ✅ Tarefas Concluídas no Sprint
 
 ### 🔩 Estrutura Física
-- [x] Fixação da base com parafusos M3
-- [ ] Impressão da nova garra (aguardando término)
-- [ ] Montagem da articulação do ombro
+- [x] Verificação de todas as peças impressas
+- [x] Teste de montagem das peças impressas
+- [X] Verificação das peças faltantes
 
 ### 🔌 Eletrônica
-- [ ] Soldagem dos conectores dos motores
-- [x] Teste de funcionamento da fonte de 12V
-- [ ] Verificação de possíveis curtos
+- [X] Verificação dos componentes faltantes
+- [X] Planejamento de compra de componentes adicionais
+- [ ] Teste inicial dos componentes eletrônicos
 
 ### 💻 Programação
-- [x] Subida do firmware no Arduino
+- [ ] Subida do firmware no Arduino
 - [ ] Testes com motor de passo via código
 - [ ] Calibração de movimentos
 
 ---
 
 ## ⚠️ Problemas Encontrados
-- 🔥 **Superaquecimento** no motor 2 após 5 minutos de uso
-- 📉 **Falha de leitura** no sensor ACS712
-- 🧷 **Alinhamento impreciso** do braço devido à folga na peça impressa
+- 🧷 **Alinhamento impreciso** Algumas peças da impressão 3D vão precisar de lixamento para melhorar o encaixe
 
 ---
 
 ## 💡 Análises e Decisões Técnicas
-- ✅ Usar **dissipadores de calor** nos drivers A4988
-- ✅ Reimprimir suporte com **PETG** e **infill maior**
-- ✅ Adotar **conectores JST** para padrão de cabeamento
+- ✅ Lixar as peças para melhorar o encaixe
+- ✅ Utilizar graxa para lubrificação das articulações
 
 ---
 
 ## 📸 Evidências Visuais
-> [📷 Foto da base montada](link-da-imagem)  
-> [📷 Driver A4988 em funcionamento](link-da-imagem)  
-> [🎥 Vídeo de teste com o motor 1](link-do-video)
+> Nenhuma evidência visual foi anexada neste relatório.
 
 ---
 
 ## 🔄 Pendências e Ações para o Próximo Sprint
-- [ ] Concluir impressão da articulação do cotovelo
-- [ ] Finalizar testes com sensores ACS712 e driver alternativo
+- [ ] Concluir impressão da articulação do pulso e outras peças
+- [ ] Lixar as peças para melhorar o encaixe
+- [ ] Comprar componentes eletrônicos faltantes
+- [ ] Finalizar montagem da estrutura física
 - [ ] Documentar ligações elétricas em `docs/hardware/esquematicos/`
 - [ ] Iniciar testes de comunicação entre módulos
 
 ---
 
 ## 📚 Anexos (opcional)
-- `circuito_motor_A4988_v2.fzz`
-- `garra_v3.stl`
-- `sprint_backlog.xlsx`
+> Nenhum anexo foi incluído neste relatório.
 
 ---
 
-> 📝 **Observação final:** este relatório foi elaborado de forma colaborativa durante a reunião técnica de DD/MM/AAAA.
+> 📝 **Observação final:** este relatório foi elaborado com base na reunião técnica colaborativa de 10/07/2025.
