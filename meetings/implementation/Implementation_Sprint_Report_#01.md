@@ -45,11 +45,11 @@ Descreva aqui os objetivos principais deste ciclo:
 ### 🔩 Estrutura Física
 - [x] Verificação de todas as peças impressas
 - [x] Teste de montagem das peças impressas
-- [X] Verificação das peças faltantes
+- [x] Verificação das peças faltantes
 
 ### 🔌 Eletrônica
-- [X] Verificação dos componentes faltantes
-- [X] Planejamento de compra de componentes adicionais
+- [x] Verificação dos componentes faltantes
+- [x] Planejamento de compra de componentes adicionais
 - [ ] Teste inicial dos componentes eletrônicos
 
 ### 💻 Programação
