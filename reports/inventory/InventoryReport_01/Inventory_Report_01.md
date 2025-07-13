@@ -23,14 +23,14 @@
 | EL004  | ESP32                           | 0         | unid.   | -   | ❌ Fora de estoque |          |
 | EL005  | Sensor Ultrassônico HC-SR04     | 1         | unid.   | Caixa A   | ✅ Disponível |                     |
 | EL006  | Filamento PLA 3mm (1kg)         | 1         | rolo    | -   | ✅ Disponível |                |
-| EL007  | Parafusos M8 (3 tipos)          | 0         | kit     | Caixa A   | ❌ Fora de estoque |                        |
-| EL008  | Parafusos M3 x 20mm (kit)       | 0         | kit     | Caixa A   | ❌ Fora de estoque |                    |
-| EL009  | Super Bonder Loctite            | 0         | unid.   | Caixa A   | ❌ Fora de estoque |                           |
-| EL010  | Adesivo Termofusível (kit)      | 0         | kit     | Caixa A   | ❌ Fora de estoque |                              |
+| EL007  | Parafusos M8 (3 tipos)          | 0         | kit     | -   | ❌ Fora de estoque |                        |
+| EL008  | Parafusos M3 x 20mm (kit)       | 0         | kit     | -   | ❌ Fora de estoque |                    |
+| EL009  | Super Bonder Loctite            | 0         | unid.   | -   | ❌ Fora de estoque |                           |
+| EL010  | Adesivo Termofusível (kit)      | 0         | kit     | -  | ❌ Fora de estoque |                              |
 | EL011  | Acetona (500ml)                 | 0         | frasco  | Armário   | ❌ Fora de estoque |                         |
 | EL012  | Alicate de Precisão             | 1         | unid.   | Caixa de Ferramentas | ✅ Disponível |                |
-| EL013  | Graxa de Silicone (100g)        | 0         | pote    | Caixa A   | ❌ Fora de estoque |                              |
-| EL014  | Linha de Pesca Trançada (300 m) | 1         | rolo    | Caixa A   | ✅ Disponível |                      |
+| EL013  | Graxa de Silicone (100g)        | 0         | pote    | -   | ❌ Fora de estoque |                              |
+| EL014  | Linha de Pesca Trançada (300 m) | 1         | rolo    | -   | ✅ Disponível |                      |
 | EL015  | Cabo USB Tipo A/B         | 1         | unid.   | Caixa A   | ✅ Disponível |                      |
 | UT001  | 8mmx8cm Parafuso                | 10        | unid.   | -         | ❌ Fora de Estoque |                      |
 | UT002  | 8mmx4cm Parafuso               | 10        | unid.   | -         | ❌ Fora de Estoque |                      |
