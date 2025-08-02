@@ -1,4 +1,4 @@
-# 📦 Inventário Técnico — [Nome do Subconjunto ou Período]
+# 📦 Inventário Técnico — [ATOM PROJECT]
 📅 Atualizado em: 12/07/2025  
 🧰 Responsável: Enzo R. L. D. Ribas
 
@@ -143,3 +143,4 @@
 ---
 
 > Este relatório faz parte do controle interno do projeto Atom e deve ser atualizado ao final de cada sprint ou após qualquer movimentação de peças relevante.
+
