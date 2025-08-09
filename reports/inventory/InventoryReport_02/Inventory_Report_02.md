@@ -25,6 +25,14 @@
 | EL005  | Sensor Ultrassônico HC-SR04     | 1         | unid.   | Caixa A   | ✅ Disponível |                     |
 | EL015  | Cabo USB Tipo A/B         | 1         | unid.   | Caixa A   | ✅ Disponível |                      |
 | EL004  | ESP32                           | 0         | unid.   | -   | ❌ Fora de estoque |          |
+| EL006  | Fonte 6V 1A Bivolt                  | 1         | unid.   | Caixa A   | ❌ Fora de estoque |                      |
+| EL007  | Módulo PWM PCA9685 I2C - 16 Canais para Servo | 1 | unid. | Caixa A | ❌ Fora de estoque | Utilizado para controle simultâneo de múltiplos servos |
+| EL008  | Módulo Conversor USB 2.0 para TTL CH340G - 6 PINOS | 1 | unid. | Caixa A | ❌ Fora de estoque | Utilizado para comunicação serial com microcontroladores |
+| EL009  | Módulo Sensor de Corrente 20A | 1 | unid. | Caixa A | ❌ Fora de estoque | Utilizado para monitoramento de corrente em tempo real |
+| EL010  | Conversor de Nível Lógico 3.3V-5V Bidirecional - 4 Canais | 4 | unid. | Caixa A | ❌ Fora de estoque | Utilizado para comunicação entre dispositivos de diferentes níveis lógicos |
+| EL011  | Raspberry Pi Zero 2 W | 1 | unid. | Caixa A | ❌ Fora de estoque | Utilizado como microcontrolador principal |
+| EL012  | Placa de Extensão T GPIO para Raspberry Pi + Cabo 40 Pinos - Azul | 1 | unid. | Caixa A | ❌ Fora de estoque | Utilizado para expandir os pinos GPIO do Raspberry Pi |
+| EL013  | Acelerômetro e Giroscópio 3 Eixos 6 DOF MPU-6050 - GY-521 | 1 | unid. | Caixa A | ❌ Fora de estoque | Utilizado para detecção de movimento e orientação |
 
 
 ### Utilitários
