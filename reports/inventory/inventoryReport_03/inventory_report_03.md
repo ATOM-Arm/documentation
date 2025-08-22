@@ -1,11 +1,14 @@
 # 📦 Inventário Técnico — [ATOM PROJECT]
+
 📅 Atualizado em: 22/08/2025  
 🧰 Responsável: Carlos Caetano / Enzo Ribas
 
 ---
 
 ## 📁 Categoria do Inventário
+
 > Selecione ou especifique o tipo de inventário listado neste relatório:
+
 - [x] Estrutura Física (peças impressas, suportes, parafusos)
 - [x] Eletrônica (placas, sensores, fios, drivers)
 - [x] Ferramentas / Materiais de Montagem
@@ -102,8 +105,6 @@
 | HW036  | INMOOV ThumbV3_base_left_Balse_version.stl      | 1 | unid         | -       | -                | ✅ Disponível    |             |
 | HW037  | INMOOV silicon finger tip mold.stl      | -          | -       | -                |✅ Disponível   |             |
 
-
-
 > Status:
 > - ✅ Disponível
 > - ⚠️ Danificado ou em revisão
@@ -119,16 +120,16 @@
 ---
 
 ## 📑 Observações gerais
+
 - Lista de componentes atualizada após montagem Sprint #01
 - Todos os arquivos STL estão disponíveis no repositório do projeto Atom e serão enviados ao professor Ricardo para impressão.
 
 ---
 
 ## 📁 Anexos (opcional)
+
 > Não há anexos neste relatório.
 
 ---
 
 > Este relatório faz parte do controle interno do projeto Atom e deve ser atualizado ao final de cada sprint ou após qualquer movimentação de peças relevante.
-
-
