@@ -37,10 +37,10 @@
 | EL012  | Placa de Extensão T GPIO para Raspberry Pi + Cabo 40 Pinos - Azul | 1 | unid. | Caixa A | ❌ Fora de estoque | Utilizado para expandir os pinos GPIO do Raspberry Pi |
 | EL013  | Acelerômetro e Giroscópio 3 Eixos 6 DOF MPU-6050 - GY-521 | 1 | unid. | Caixa A | ❌ Fora de estoque | Utilizado para detecção de movimento e orientação |
 | EL014  | Conversor de Nível Lógico 3,3-5V Bidirecional 8 Canais | 1 | unid. | Caixa A | ❌ Fora de estoque | Utilizado para comunicação entre dispositivos de diferentes níveis lógicos |
-| EL015  | Banana Pi  | 1 | unid. | Caixa Azul | ✅ Disponível |  |
-| EL016  | Banana Pi  | 1 | unid. | Caixa Azul | ✅ Disponível |  |
+| EL015  | Banana Pi M5  | 1 | unid. | Caixa Azul | ✅ Disponível |  |
+| EL016  | Banana Pi M2 Zero  | 1 | unid. | Caixa Azul | ✅ Disponível |  |
 | EL017  | ESP32  CAM | 1 | unid. | Caixa Azul | ✅ Disponível |  |
-| EL018  | NAO IDENTIFICADO  | 1 | unid. | Caixa Azul | ✅ Disponível |  |
+| EL019  | ESP32 S3  | 1 | unid. | Caixa Azul | ✅ Disponível |  |
 
 
 
