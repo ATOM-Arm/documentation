@@ -1,4 +1,4 @@
-# Relatório Quinzenal — Projeto ATOM
+# Relatório de Participacao — Projeto ATOM
 
 ## Informações do membro
 - Nome: ____________________________________
