@@ -9,7 +9,7 @@ Exemplo:
 4th_weekly_minute.md 
 
 -->
-# ATA DA Xª REUNIÃO DO GRUPO DE INICIAÇÃO CIENTÍFICA – BRAÇO ROBÓTICO
+# ATA DA 18ª REUNIÃO DO GRUPO DE INICIAÇÃO CIENTÍFICA – BRAÇO ROBÓTICO
 
 **Data da Reunião:** 08 de Novembro de 2025
 
